@@ -4,7 +4,7 @@ Aqui está o **README.md** final e completo:
 
 ---
 
-# 🧮 Calc
+# 🧮 Galg
 
 Uma ferramenta de linha de comando (CLI) simples e eficiente, desenvolvida em **.NET**, projetada para realizar operações matemáticas diretamente do seu terminal.
 
@@ -28,8 +28,8 @@ O projeto foi estruturado seguindo os princípios de aplicações de console mod
 ### 1. Clonar o Projeto
 
 ```bash
-git clone https://github.com/seu-usuario/Calc.git
-cd Calc
+git clone https://github.com/QuevemCruzDev/Galg.git
+cd Galg
 
 ```
 
@@ -73,11 +73,11 @@ dotnet publish -c Release -r linux-x64 --self-contained true -p:PublishSingleFil
 
 ## 🛠️ Configuração do PATH (Comando Global)
 
-Torne o `calc` acessível de qualquer pasta:
+Torne o `galg` acessível de qualquer pasta:
 
 ### No Windows
 
-1. Mova o `Calc.exe` para `C:\ferramentas\calc`.
+1. Mova o `Galg.exe` para `C:\ferramentas\galg`.
 2. Nas **Variáveis de Ambiente**, adicione esse caminho ao `Path` do seu usuário.
 3. Reinicie o terminal.
 
@@ -86,8 +86,8 @@ Torne o `calc` acessível de qualquer pasta:
 1. Mova o executável e dê permissão:
 ```bash
 mkdir -p ~/bin
-mv ./publish/linux/Calc ~/bin/calc
-chmod +x ~/bin/calc
+mv ./publish/linux/Galg ~/bin/galg
+chmod +x ~/bin/galg
 
 ```
 
