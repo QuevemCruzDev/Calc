@@ -1,0 +1,5 @@
+D:\Projetos\Calc\bin\Release\net10.0\publish\Calc.exe
+D:\Projetos\Calc\bin\Release\net10.0\publish\Calc.dll
+D:\Projetos\Calc\bin\Release\net10.0\publish\Calc.deps.json
+D:\Projetos\Calc\bin\Release\net10.0\publish\Calc.runtimeconfig.json
+D:\Projetos\Calc\bin\Release\net10.0\publish\Calc.pdb
